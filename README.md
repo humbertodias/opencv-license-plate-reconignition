@@ -29,8 +29,19 @@ Press any key to exit.
 
 Tested on Ubuntu 18.04
 
+if you want retrain the KNM algorithm.
+Recreating the files classifications.txt and flattened_images.txt using this repository 
+[OpenCV 3 KNM Character Recognition Python](https://github.com/MicrocontrollersAndMore/OpenCV_3_KNN_Character_Recognition_Python)
+
+```
+python GenData.py
+```
+
+
 # References
 
 [OpenCV](http://opencv-python-tutroals.readthedocs.io)
 
 [OpenCV 3 License Plate Recognition Python](https://github.com/MicrocontrollersAndMore/OpenCV_3_License_Plate_Recognition_Python)
+
+[OpenCV 3 KNM Character Recognition Python](https://github.com/MicrocontrollersAndMore/OpenCV_3_KNN_Character_Recognition_Python)
